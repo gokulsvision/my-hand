@@ -1,12 +1,10 @@
-# Handy
+# My Hand
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/WVBeWsNXK4)
+A personal build of [Handy](https://github.com/cjpais/Handy) — a free, open source, offline speech-to-text application — rebranded for my own use.
 
-**A free, open source, and extensible speech-to-text application that works completely offline.**
+My Hand is a fork of Handy (MIT licensed, © cjpais and contributors). All credit for the underlying application goes to the Handy project; this fork changes the app name, icon, and my own configuration defaults.
 
-Handy is a cross-platform desktop application that provides simple, privacy-focused speech transcription. Press a shortcut, speak, and have your words appear in any text field. This happens on your own computer without sending any information to the cloud.
-
-## Why Handy?
+## Why My Hand?
 
 Handy was created to fill the gap for a truly open source, extensible speech-to-text tool. As stated on [handy.computer](https://handy.computer):
 
